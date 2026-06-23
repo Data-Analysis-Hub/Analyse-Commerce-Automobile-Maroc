@@ -1,0 +1,192 @@
+[
+    {
+        "Data Source": "Import.csv",
+        "Data Fields": [
+            {
+                "Code du produit SH": {
+                    "description": "Code du produit spécifique",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Libellé du produit SH": {
+                    "description": "le Libellé du produit spécifique",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du groupement d'utilisation": {
+                    "description": "Libellé du groupement d'utilisation",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du nouveau produits remarquables": {
+                    "description": "le Libellé du produits remarquables au sein du même groupement d'utilisation",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé de la section CTCI": {
+                    "description": "Libellé de section de section pour le Classification type pour le commerce international en premier degrée",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé de la division CTCI": {
+                    "description": "Libellé de division pour le Classification type pour le commerce international en deuxième degrée",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du groupe CTCI": {
+                    "description": "Libellé de groupe pour le Classification type pour le commerce international en troisième degrée",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Continent": {
+                    "description": "le Continent ou l'importation ou l'exportation à été effectué",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du pays": {
+                    "description": "le Libellé du pays",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du flux": {
+                    "description": "Libellé du flux (importation ou exportation)",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Année": {
+                    "description": "Année ou l'importation ou l'exportation à été effectué",
+                    "dtype": "int64" /*if the period thing is available then good else just int*/
+                }
+            },
+            {
+                "Mois": {
+                    "description": "Mois ou l'importation ou l'exportation à été effectué",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Poids en KG": {
+                    "description": "Poid en KG de chaque importation/exportation numérique",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Valeur DHS": {
+                    "description": "Valeur DHS de chaque importation/exportation numérique",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Unité complementaire": {
+                    "description": "Unité complementaire de chaque importation/exportation numérique",
+                    "dtype": "int64"
+                }
+            }
+        ]
+    },
+    {
+        "Data Source": "Export.csv",
+        "Data Fields": [
+            {
+                "Code du produit SH": {
+                    "description": "Code du produit spécifique",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Libellé du produit SH": {
+                    "description": "le Libellé du produit spécifique",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du groupement d'utilisation": {
+                    "description": "Libellé du groupement d'utilisation",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du nouveau produits remarquables": {
+                    "description": "le Libellé du produits remarquables au sein du même groupement d'utilisation",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé de la section CTCI": {
+                    "description": "Libellé de section de section pour le Classification type pour le commerce international en premier degrée",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé de la division CTCI": {
+                    "description": "Libellé de division pour le Classification type pour le commerce international en deuxième degrée",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du groupe CTCI": {
+                    "description": "Libellé de groupe pour le Classification type pour le commerce international en troisième degrée",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Continent": {
+                    "description": "le Continent ou l'importation ou l'exportation à été effectué",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du pays": {
+                    "description": "le Libellé du pays",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Libellé du flux": {
+                    "description": "Libellé du flux (importation ou exportation)",
+                    "dtype": "str"
+                }
+            },
+            {
+                "Année": {
+                    "description": "Année ou l'importation ou l'exportation à été effectué",
+                    "dtype": "int64" /*if the period thing is available then good else just int*/
+                }
+            },
+            {
+                "Mois": {
+                    "description": "Mois ou l'importation ou l'exportation à été effectué",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Poids en KG": {
+                    "description": "Poid en KG de chaque importation/exportation numérique",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Valeur DHS": {
+                    "description": "Valeur DHS de chaque importation/exportation numérique",
+                    "dtype": "int64"
+                }
+            },
+            {
+                "Unité complementaire": {
+                    "description": "Unité complementaire de chaque importation/exportation numérique",
+                    "dtype": "int64"
+                }
+            }
+        ]
+    }
+]
