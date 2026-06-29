@@ -1,0 +1,5 @@
+[Système harmonisé de désignation et de codification des marchandises](https://services.oc.gov.ma/DataBase/MetaDonnees/Front/details/175)
+[Nomenclature des produits remarquables](https://services.oc.gov.ma/DataBase/MetaDonnees/Front/details/170)
+[Nomenclature des groupements d’utilisation](https://services.oc.gov.ma/DataBase/MetaDonnees/Front/details/169)
+[Classification type pour le commerce international (CTCI)](https://services.oc.gov.ma/DataBase/MetaDonnees/Front/details/152)
+[Unité complementaire](https://services.oc.gov.ma/DataBase/MetaDonnees/Front/details/42)

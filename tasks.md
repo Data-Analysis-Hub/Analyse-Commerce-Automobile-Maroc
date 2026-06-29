@@ -8,10 +8,3 @@ the plan is as follows:
 4) {optional}: insert data into a db (either MSSQL or Postgres) []
 5) Power BI
 
-_________________________________________________________________
-
-
-## **EDA**
-
-1) know the shape of the data (Fields/Attributes/Features); describe the data using df.describe 
-2) document more about the data, make a data dictionnary document with each element & it's meaning
